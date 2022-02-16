@@ -1,5 +1,5 @@
 {
-  "name": "ProxyService",
+  "name": "ProxyService!",
   "version": "1.0.0",
   "description": "A controller for proxying requests created for use with HttpService in Roblox.",
   "main": "server.js",
